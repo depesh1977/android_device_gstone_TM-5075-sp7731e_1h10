@@ -18,8 +18,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 #$(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := TM-5075
-PRODUCT_NAME := omni_TM-5075
+PRODUCT_DEVICE := TM5075
+PRODUCT_NAME := omni_TM5075
 PRODUCT_BRAND := Texet
-PRODUCT_MODEL := TM-5075
-PRODUCT_MANUFACTURER := gstone
+PRODUCT_MODEL := TM5075
+PRODUCT_MANUFACTURER := TM5075
