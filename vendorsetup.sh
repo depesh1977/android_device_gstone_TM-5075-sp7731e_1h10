@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_TM-5075-eng
+add_lunch_combo omni_TM5075-eng
