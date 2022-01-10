@@ -26,11 +26,11 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/gstone/TM-5075'
+        default: 'device/gstone/TM5075'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'TM-5075'
+        default: 'TM5075'
 
 jobs:
   build:
