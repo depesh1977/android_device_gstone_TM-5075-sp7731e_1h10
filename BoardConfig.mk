@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/gstone/TM-5075
+DEVICE_PATH := device/gstone/TM5075
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -21,7 +21,7 @@ TARGET_CPU_ABI2 := armeabi
 TARGET_CPU_VARIANT := cortex-a7
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := TM-5075
+TARGET_OTA_ASSERT_DEVICE := TM5075
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true
