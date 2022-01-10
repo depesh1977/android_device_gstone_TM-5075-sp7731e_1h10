@@ -6,9 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TM-5075.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_TM-5075-user \
-    omni_TM-5075-userdebug \
-    omni_TM-5075-eng
+    $(LOCAL_DIR)/omni_TM5075.mk
