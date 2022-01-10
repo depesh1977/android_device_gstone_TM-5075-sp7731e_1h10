@@ -14,23 +14,23 @@ on:
       MANIFEST_BRANCH:
         description: 'LIBRARY_BRANCH'
         required: true
-        default: 'twrp-9.0'
+        default: 'twrp-8.1'
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/depesh1977/BQ_TWRP_9.0_ENCRYPT'
+        default: 'https://github.com/depesh1977/android_device_gstone_TM-5075-sp7731e_1h10'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'main'
+        default: 'android_8.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/BQ/BQ5519G'
+        default: 'device/gstone/TM-5075'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'BQ5519G'
+        default: 'TM-5075'
 
 jobs:
   build:
