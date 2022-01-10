@@ -1,0 +1,1 @@
+# android_device_gstone_TM-5075-sp7731e_1h10
