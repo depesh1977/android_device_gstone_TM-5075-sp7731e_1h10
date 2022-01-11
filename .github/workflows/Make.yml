@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/depesh1977/BQ_TWRP_9.0_ENCRYPT'
+        default: 'https://github.com/depesh1977/android_device_gstone_TM-5075-sp7731e_1h10'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
