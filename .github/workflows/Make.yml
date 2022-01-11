@@ -26,11 +26,11 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/BQ/BQ5519G'
+        default: 'device/gstone/TM5075'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'BQ5519G'
+        default: 'TM5075'
       DEVICE_TYPE:
         description: 'DEVICE_TYPE'
         required: true
