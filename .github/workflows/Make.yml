@@ -10,11 +10,11 @@ on:
       LIBRARY_URL:
         description: 'LIBRARY_URL'
         required: true
-        default: 'git://github.com/PitchBlackRecoveryProject/manifest_pb.git'
+        default: 'https://gitlab.com/OrangeFox/Manifest.git'
       LIBRARY_BRANCH:
         description: 'LIBRARY_BRANCH'
         required: true
-        default: 'android-8.1'
+        default: 'fox_8.1'
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
